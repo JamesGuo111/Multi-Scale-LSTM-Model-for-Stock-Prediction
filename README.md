@@ -1,1 +1,1 @@
-# Multi-Scale-LSTM-Model-for-Stock-Prediction
+# LSTM-Stock-Prediction-Model
